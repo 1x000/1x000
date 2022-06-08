@@ -4,4 +4,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=1x000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1x000)](https://git.io/streak-stats)
-https://stats.justsong.cn/api/bilibili/?id=698092884
+https://stats.justsong.cn/api/bilibili/?id=LE
