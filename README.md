@@ -1,7 +1,10 @@
-![Metrics](https://metrics.lecoq.io/1x000?template=classic&base.indepth=false&config.timezone=Asia%2FBangkok)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=1x000)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1x000)](https://git.io/streak-stats)
-https://stats.justsong.cn/api/bilibili/?id=LEl_FENG
+![Metrics](https://metrics.lecoq.io/1x000?template=classic&isocalendar=1&languages=1&topics=1&lines=1&traffic=1&introduction=1&skyline=1&calendar=1&gists=1&base.indepth=false&base.hireable=false&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&topics.mode=starred&topics.sort=stars&topics.limit=15&introduction.title=true&calendar.limit=1&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=false&config.timezone=Asia%2FBangkok)
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=1x000&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=1x000&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=1x000" /> </div>
+<span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=1x000" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=1x000&theme=xcode" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=1x000" /> </div>
+https://stats.justsong.cn/api/bilibili/?id=698092884
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);hi陌生人！&center=true&size=27"> </a> </h1>
