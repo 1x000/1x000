@@ -27,5 +27,3 @@ In the near future, I plan to migrate the blog to Hugo and create the frontend p
 ## Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=1x000)](https://github.com/anuraghazra/github-readme-stats)
-
-<div align="center"> src="https://github-readme-stats.vercel.app/api?username<div align="center"> </div>
