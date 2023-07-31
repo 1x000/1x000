@@ -28,7 +28,4 @@ In the near future, I plan to migrate the blog to Hugo and create the frontend p
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=1x000)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username<div align="center"> <img src="https://stats.justsong.cn/api/bilibili/?id=698092884"> </div>
-
-[![GitHub Trends](https://api.githubtrends.io/user/svg/1x000/langs?time_range=one_year&include_private=True&theme=classic)](https://api.githubtrends.io/user/svg/AH-dark/langs?time_range=one_year&include_private=True&theme=classic)
-[![Repositories](https://api.githubtrends.io/user/svg/1x000/repos?time_range=one_year&include_private=True&theme=classic)](https://api.githubtrends.io/user/svg/AH-dark/repos?time_range=one_year&include_private=True&theme=classic)
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username<div align="center"> </div>
