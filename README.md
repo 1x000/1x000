@@ -1,7 +1,7 @@
 # LEl_FENG
 
-[![Blog](https://img.shields.io/badge/Blog-ahdark.com-%231D7EA7.svg?logo=wordpress&logoColor=white)](https://blog.xpdbk.com)
-[![GitHub](https://img.shields.io/badge/GitHub-AHdark-%2312100E.svg?logo=Github&logoColor=white)](https://github.com/1x000)
+[[Blog](https://blog.xpdbk.com)
+[[GitHub](https://github.com/1x000)
 
 ## About Me
 
