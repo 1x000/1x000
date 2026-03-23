@@ -1,7 +1,7 @@
-# LEl_FENG
+# LEl_FENG小胖
 
-[[Blog](https://blog.xpdbk.com)
-[[GitHub](https://github.com/1x000)
+[Blog](https://blog.xpdbk.com)
+[GitHub](https://github.com/1x000)
 
 ## About Me
 
