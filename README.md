@@ -1,19 +1,19 @@
 # Moegeek小胖
 
-[Blog](https://blog.moegeek.com)
+[Blog](https://blog.xpdbk.com)
 [GitHub](https://github.com/1x000)
 
 ## About Me
 
 ### Introduction
 
--  Hi, I’m [@小胖](https://blog.moegeek.com)
+-  Hi, I’m [@小胖](https://blog.xpdbk.com)
 -  I’m currently learning **java** **Python**
 -  How to reach me: huaweilaomke402@gmail.com
 
 ## Blog
 
-**Welcome to my blog: [Moegeek Blog](https://blog.moegeek.com)**
+**Welcome to my blog: [Moegeek Blog](https://blog.xpdbk.com)**
 
 My blog runs on a Github deployment on Hugo. 
 
